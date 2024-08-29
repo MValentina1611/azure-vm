@@ -36,9 +36,11 @@ No configuramos una zona de disponibilidad, ya que no era necesario para los obj
 
 La práctica nos permitió explorar las opciones básicas de configuración de una VM en Azure, seleccionando una región económica y aprovechando los beneficios del plan gratuito para estudiantes. A través de esta experiencia, adquirimos una comprensión práctica de la creación y manejo de máquinas virtuales en la nube, lo que nos prepara para proyectos más complejos en el futuro.
 
+Evidencia de despliegue de la vm:
   ![Evidencia de la creación de la vm](/arch-img/vmResume2.jpeg)
-
   
+
+Resumen de la vm en la interfaz de azure:
  ![Resumen de la vm](/arch-img/vmResume.jpeg)
 
   
