@@ -2,7 +2,7 @@
 
 ## 📝 Introducción
 
-En la práctica realizada, configuramos y desplegamos una máquina virtual en Azure utilizando la opción más económica disponible y un plan de almacenamiento gratuito para estudiantes. El objetivo era familiarizarnos con la creación y configuración básica de una máquina virtual (VM) en la plataforma Azure.
+En la práctica realizada, configuramos y desplegamos una máquina virtual en Azure utilizando la opción más económica disponible y un tamaño gratuito para estudiantes. El objetivo era familiarizarnos con la creación y configuración básica de una máquina virtual (VM) en la plataforma Azure.
 
 ## 💻 Detalles de la Máquina Virtual
 
